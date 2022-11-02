@@ -1,0 +1,6 @@
+* {
+    background-color: rgba(243, 244, 246, var(--tw-bg-opacity));
+    margin-top: 10px;
+    --tw-bg-opacity: 1;
+}
+
